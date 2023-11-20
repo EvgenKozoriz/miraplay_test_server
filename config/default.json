@@ -1,0 +1,5 @@
+{
+    "serverPort" : 5000,
+    "dbUrl": "mongodb+srv://firstUser:qwertyasdzx321@cluster-test.ps1lerd.mongodb.net/?retryWrites=true&w=majority",
+    "secretKey" : "test-task-secret-key"
+}
